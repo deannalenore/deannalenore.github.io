@@ -1,0 +1,29 @@
+.nav-link {
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 50px;
+}
+h4 {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+p {
+  margin: 100px;
+}
+
+a {
+  margin-right: 50px;
+}
+
+.card-link {
+  text-align: center;
+}
